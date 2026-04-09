@@ -1,5 +1,5 @@
 
-FROM php:8.4-fpm
+FROM php:8.5-fpm
 
 # Use the default configuration
 RUN mv "$PHP_INI_DIR/php.ini-development" "$PHP_INI_DIR/php.ini"

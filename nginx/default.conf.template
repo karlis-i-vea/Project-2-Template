@@ -1,5 +1,5 @@
 
-# https://laravel.com/docs/12.x/deployment#nginx
+# https://laravel.com/docs/13.x/deployment#nginx
 
 server {
     listen ${SERVER_PORT};
